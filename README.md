@@ -1,3 +1,4 @@
 # DataCamp
 Daily practice record
-[查看 Jupyter Notebook](./Intro_to_Statistic_in_Python.ipynb)
+
+[Intro_to_Statistic_in_Python](./Intro_to_Statistic_in_Python.ipynb)
