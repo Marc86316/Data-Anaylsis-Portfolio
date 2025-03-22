@@ -1,4 +1,5 @@
-# 🧠 Data Analyst in Python – Learning Journey
+# 🧠 DataCamp
+## 🎓 Data Analyst in Python – Learning Journey
 
 Welcome! This repository documents my learning progress in the **Data Analyst in Python** career track on [DataCamp](https://www.datacamp.com/). Each course has its own folder, and each chapter is saved as a Jupyter notebook. Projects and assessments are also included to showcase applied learning.
 
