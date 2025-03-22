@@ -89,6 +89,16 @@ Overall Progress: [████████████████████�
 - [Visualizing the History of Nobel Prize Winners](https://github.com/Marc86316/DataCamp/tree/main/Projects/Data_Anaylsis/Visualizing_the_History_of_Nobel_Prize_Winners)
 - [Analyzing Crime in Los Angeles]()
 
+---
+
+## ⚠️ Disclaimer
+
+All course content, datasets, and exercises used in this repository are based on the [Data Analyst in Python](https://www.datacamp.com/tracks/data-analyst-with-python) career track by [DataCamp](https://www.datacamp.com/).
+
+This repository is intended for **personal learning purposes only**.  
+All materials and solutions are my own notes or interpretations and **do not replicate DataCamp’s proprietary content verbatim**.
+
+Please respect DataCamp’s content license and terms of use.
 
 
 
