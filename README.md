@@ -23,7 +23,7 @@ Overall Progress: [████████████████████�
 
 ## 🏅 Badges Earned
 
-![Python Data Fundamentals Badge](https://raw.githubusercontent.com/Marc86316/DataCamp/main/path_to_your_badge_image.png)
+![Python Data Fundamentals Badge](https://github.com/Marc86316/DataCamp/blob/main/Badges/Python_Data_Fundamentals.png)
 
 ---
 
