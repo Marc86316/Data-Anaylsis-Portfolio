@@ -1,6 +1,6 @@
 # 🧠 DataCamp
 
-## 📚 Table of Contents
+## 📚 Course Overview
 
 - [Course Overview](#course-overview)
   - [Introduction to Python](#1-introduction-to-python)
