@@ -11,12 +11,6 @@
   - [Introduction to Data Visualization with Seaborn](#6-introduction-to-data-visualization-with-seaborn)
   - [Exploratory Data Analysis in Python](#7-exploratory-data-analysis-in-python)
 
-- [Projects](#projects)
-  - [Investigating Netflix Movies](#investigating-netflix-movies)
-  - [Exploring NYC Public School Test Results](#exploring-nyc-public-school-test-results)
-  - [Visualizing the History of Nobel Prize Winners](#visualizing-the-history-of-nobel-prize-winners)
-  - [Analyzing Crime in Los Angeles](#analyzing-crime-in-los-angeles)
-
 ## 🎓 Data Analyst in Python – Learning Journey
 
 Welcome! This repository documents my learning progress in the **Data Analyst in Python** career track on [DataCamp](https://www.datacamp.com/). Each course has its own folder, and each chapter is saved as a Jupyter notebook. Projects and assessments are also included to showcase applied learning.
