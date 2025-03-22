@@ -52,27 +52,6 @@ Overall Progress: [████████████████████�
 - [Data Manipulation with Python](https://github.com/Marc86316/DataCamp/blob/main/Assessments/Data_Manipulation.ipynb)
 - [Importing & Cleaning Data with Python](https://github.com/Marc86316/DataCamp/blob/main/Assessments/Importing_Cleaning.ipynb)
 
----
 
-## 🏗 How to Update This README (For Future Maintenance)
-
-Each time you complete a new chapter or project:
-
-1. Add a new bullet point under the relevant course or project section.
-2. Update the progress tracker at the top.
-3. Insert the new badge (if applicable).
-4. Use this placeholder template to maintain consistency:
-
-```markdown
-- [Chapter Title](https://github.com/Marc86316/DataCamp/blob/main/Folder/Chapter_Name.ipynb)
-```
-
----
-
-## 📬 Contact
-
-If you're also on the Data Analyst learning journey, feel free to reach out or fork this repo!
-
-Happy learning 👨‍💻📊
 
 
