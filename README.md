@@ -1,8 +1,8 @@
 # 🧠 DataCamp
 
-## 📚 Course Overview
+## 📚 Python Data Fundamentals Course Overview
 
-- [Course Overview](#course-overview)
+- [Python Data Fundamentals Track Overview](#python-data-fundamentals-overview)
   - [Introduction to Python](#1-introduction-to-python)
   - [Intermediate Python](#2-intermediate-python)
   - [Data Manipulation with pandas](#3-data-manipulation-with-pandas)
@@ -10,6 +10,10 @@
   - [Introduction to Statistics in Python](#5-introduction-to-statistics-in-python)
   - [Introduction to Data Visualization with Seaborn](#6-introduction-to-data-visualization-with-seaborn)
   - [Exploratory Data Analysis in Python](#7-exploratory-data-analysis-in-python)
+    
+## 📚 Python Data Fundamentals Course Overview
+
+-
 
 ## 🎓 Data Analyst in Python – Learning Journey
 
